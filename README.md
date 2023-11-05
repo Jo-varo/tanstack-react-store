@@ -1,6 +1,6 @@
 # TanStack, React - Store
 
-> Proyecto hecho con Vite, React TypeScript, Tailwind CSS, NextUI React-icons, Axios y React-hook-form.
+> Proyecto hecho con Vite, React TypeScript, Tailwind CSS, NextUI, React Router, Axios y React-hook-form.
 
 Proyecto hecho para practicar con TanStack Query, basado en el curso de DevTalles
 
